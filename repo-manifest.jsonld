@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/allenai/Olmo-core/commit/ccf4ef4b5f6552e92f933589e9e6377d16fafb40",
       "git:hexsha": "ccf4ef4b5f6552e92f933589e9e6377d16fafb40",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/allenai/Olmo-core/commit/717e119c03642c44766d4dbeca3b95c1b348ae2d",
