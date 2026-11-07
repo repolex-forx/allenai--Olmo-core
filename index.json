@@ -1,0 +1,11 @@
+{
+  "org": "allenai",
+  "repo": "Olmo-core",
+  "versions": [
+    {
+      "commit": "ccf4ef4b5f6552e92f933589e9e6377d16fafb40",
+      "tag": "",
+      "parsed_at": "2026-11-07T13:05:47.906233+00:00"
+    }
+  ]
+}
